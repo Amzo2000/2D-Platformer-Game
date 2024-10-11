@@ -46,11 +46,11 @@ A simple 2D platformer game built using HTML5 canvas and JavaScript, featuring c
 .
 ├── assets/                 # Sprite sheets and images
 │   ├── [sprite_image.png]  # Example of a sprite image
-├── Vector2.js              # 2D vector math class
-├── Player.js               # Player class and logic
-├── Rect2.js                # Ground/Rect object class
-├── SpriteAnimation.js      # Sprite animation class
-├── AnimationController.js   # Animation controller for the player
+├── vector.js               # 2D vector math class
+├── player.js               # Player class and logic
+├── rectangle.js            # Ground/Rect object class
+├── spriteAnimation.js      # Sprite animation class
+├── animationController.js  # Animation controller for the player
 ├── index.html              # Entry point of the game
 └── README.md               # Project documentation
 ```
